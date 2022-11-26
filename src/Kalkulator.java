@@ -80,5 +80,4 @@ public class Kalkulator
         return wynik;
     }
 
-    }
 }
